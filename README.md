@@ -28,6 +28,8 @@ Conventional inpainting methods:
 
 The images drawn by human artists are located in [results/human_artists folder](results/human_artists/). The file names abide the following pattern: `results/human_artists/{TEST_IMAGE_NAME}/artist_{ID}.png`.
 
+## Subjective Study Results
 
+[View Subjective Study Results](http://erofeev.pw/image_inpainting_humans_vs_ai/)
 
 [Towards Data Science]: https://towardsdatascience.com/image-inpainting-humans-vs-ai-48fc4bca7ecc
